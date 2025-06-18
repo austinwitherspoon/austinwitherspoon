@@ -15,6 +15,19 @@ Outside of work, I run a free app called [BlueNotify](https://bluenotify.app/) t
 
 I also tinker with experimental video games that I occasionally present at [Open Sauce](https://opensauce.com/). Some past projects include _Eat Me!_, a multiplayer platformer that can support up to 10,000 players in a single server, and _Save the Baby!_, a ridiculous "Social Experiment" where attendees of the convention need to work together to keep a virtual baby alive for many days.
 
+Some technologies I've used:
+- Python
+- Rust
+- TypeScript
+  - VueJs
+  - ReactJS
+- NATS
+- Postgres
+- Flutter, Dart
+- Godot, GDScript
+- Java
+- Docker/K8s
+
 
 # Education
 I went to film school at the Academy of Film, Theatre, and Television in Sydney, Australia.
